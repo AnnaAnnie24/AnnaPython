@@ -1,0 +1,7 @@
+print("  (\\     ⸻    /)")
+print("  (  \\  ('o')   /)")
+print("  (               ) ")
+print("   (     '><'    )  ")
+print("        /    \\  ")
+print("       /      \\")
+print("        '_\"_'   ")
