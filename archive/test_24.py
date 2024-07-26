@@ -1,4 +1,4 @@
-from lessons.archive import test_data_23
+from archive import test_data_23
 
 
 def is_correct_answer(question, answer):

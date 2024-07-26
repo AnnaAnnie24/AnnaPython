@@ -1,4 +1,4 @@
-from lessons.archive.test_data_23 import questions
+from archive.test_data_23 import questions
 
 # questions is a list
 counter = 0
