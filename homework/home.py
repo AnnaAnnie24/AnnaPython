@@ -33,3 +33,9 @@ for woman_name in women_names:
     number_of_letters = len(woman_name)
     if woman_name == AAAAaa or woman_name == Aaa:
         print("@", woman_name, "@")
+aaaa = "a"
+aa = "a"
+for woman_name in women_names:
+    number_of_letters = len(woman_name)
+    if woman_name == aa and woman_name == aaaa:
+        print("@n", woman_name, "@n")

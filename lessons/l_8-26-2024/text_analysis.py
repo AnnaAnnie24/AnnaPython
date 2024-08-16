@@ -74,14 +74,12 @@ I-I-I-I-I keep on hoping we'll eat cake by the ocean
 """
 
 # count how many letters 'a' are in this song text
-counter = 0
+text = "A quick brown fox jumps over a lazy dog"
 A = "a"
-for symbol in song_lyrics:
-    if symbol == A:
-        counter = counter + 1
-        pass
+a = "A"
+counter = 0
+for symbol in text:
+    if symbol == A or symbol == a:
+        counter += 1
 
-   # number_of_letters = len(song_line)
-   # if song_line == A and number_of_letters == 6:
-   #      print("~", woman_name, "~")
 print(counter)
