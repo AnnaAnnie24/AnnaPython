@@ -6,7 +6,7 @@ They caught him and he got in trouble for eating a banana.
 Bob the monkey was very sad, he wanted another banana.
 The other monkey saw that he was sad and gave him a banana.
 Bob the monkey leaped with joy and munched secretly.
-Bob hugged the another monkey and thanked him for his kindness.
+Bob hugged the other monkey and thanked him for his kindness.
 """
 b = "b"
 B = "B"
