@@ -26,10 +26,7 @@ for name, price in ice_cream_dict.items():
 ice_cream = input("What Ice-Cream Would You Like?? ")
 ice_cream_price = get_ice_cream_price(ice_cream)
 
-for name, price in soda_dict.items():
-    print(f"Option {number}: {name} – ${price}")
-    number += 1
-
+print_soda_menu()
 soda = input("What Soda Would You Like?? ")
 soda_price = get_soda_price(soda)
 
