@@ -23,4 +23,4 @@ while True:
             break
 
 
-print("Your total will be:", total)
+print("Your total will be:", round(total, 2))
