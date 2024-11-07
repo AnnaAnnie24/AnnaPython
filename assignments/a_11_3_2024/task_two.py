@@ -11,11 +11,11 @@ animals_classification = {
     "Penguin": "Bird"
 }
 # TODO: write a code with for cycle to print out only Mammals
+for animal, classification in animals_classification.items():
+    if classification == "Mammal":
+        print(animal)
 values = list(animals_classification.values())
 mammals = values.count("Mammal")
 print("=-==-=-=-==-=-=-=-=-=-")
 print(mammals, "mammals")
 print("=-==-=-=-==-=-=-=-=-=-")
-for animal in animals_classification:
-    if animal == "Mammal":
-        print(animal)
