@@ -58,7 +58,7 @@ personalities.pop(2)
 print(personalities)
 
 print("----------------------------------------")
-# remove() - Removes the element at the specified position ⬇️
+# remove() - Removes the element by its value ⬇️
 presidents = ["George Washington", "John Adams", "Thomas Jefferson", "James Madison"]
 number_of_presidents = len(presidents)
 print(number_of_presidents)
