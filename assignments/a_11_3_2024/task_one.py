@@ -14,6 +14,4 @@ kids_books_genres = {
 #       "Book" has a genre ...
 
 for key, value in kids_books_genres.items():
-    print(key, '-', value)
-for key, value in kids_books_genres.items():
     print(key, 'has a genre', value)
